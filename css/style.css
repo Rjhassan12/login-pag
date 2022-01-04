@@ -1,0 +1,24 @@
+.admin{
+background-color: cornflowerblue;
+width: 600px;
+text-align: center;
+margin: auto;
+border: 15px solid green;
+padding: 50px;
+}
+body{
+    background-color: darkkhaki;
+}
+
+a{
+color: rgb(70, 204, 152);
+}
+input{
+     background-color: blue; font-style: italic;  
+}
+label{
+     color: red; font-style: italic; text-decoration:
+}
+.raju{
+    color: green; font-size: 50px;
+}
